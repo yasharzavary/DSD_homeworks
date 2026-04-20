@@ -1,0 +1,13 @@
+/build/
+/bin/
+/out/
+/dist/
+/target/
+*.exe
+*.o
+*.obj
+*.class
+*.elf
+db/
+*.db_info
+*.flock

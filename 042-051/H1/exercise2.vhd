@@ -1,6 +1,6 @@
 -- created by: yashar zavary rezaie
 -- Date: 20 April 2025
--- Homework1 - exercise 1: 7-segment
+-- Homework1 - exercise 2: 7-segment
 
 library IEEE;
 use IEEE.std_logic_1164.all;
